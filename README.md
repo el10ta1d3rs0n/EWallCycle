@@ -31,7 +31,6 @@ You only need the `PKGBUILD` file. It downloads the source from GitHub by itself
 
 ```sh
 mkdir ewallcycle && cd ewallcycle
-curl -O https://raw.githubusercontent.com/el10ta1d3rs0n/EWallCycle/main/PKGBUILD
 makepkg -si
 ```
 
